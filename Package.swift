@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "ZaloSDK-iOS",
     platforms: [
-        .iOS(.v11)  // Minimum iOS version requirement
+        .iOS(.v11)
     ],
     products: [
         .library(
